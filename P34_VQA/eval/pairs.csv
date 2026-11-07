@@ -1,0 +1,25 @@
+image,question,expected,condition
+normal_0.png,What color is the triangle?,blue,normal
+normal_1.png,How many circles are in the image?,3,normal
+normal_2.png,What color is the triangle?,red,normal
+normal_3.png,How many circles are in the image?,1,normal
+normal_4.png,What color is the triangle?,purple,normal
+normal_5.png,How many circles are in the image?,3,normal
+normal_6.png,What color is the triangle?,purple,normal
+normal_7.png,How many circles are in the image?,3,normal
+normal_8.png,What color is the triangle?,yellow,normal
+normal_9.png,How many circles are in the image?,3,normal
+lowlight_0.png,What color is the triangle?,yellow,lowlight
+lowlight_1.png,How many circles are in the image?,3,lowlight
+lowlight_2.png,What color is the triangle?,blue,lowlight
+lowlight_3.png,How many circles are in the image?,2,lowlight
+lowlight_4.png,What color is the triangle?,orange,lowlight
+cluttered_0.png,How many circles are in the image?,5,cluttered
+cluttered_1.png,How many circles are in the image?,5,cluttered
+cluttered_2.png,How many circles are in the image?,5,cluttered
+cluttered_3.png,How many circles are in the image?,6,cluttered
+cluttered_4.png,How many circles are in the image?,5,cluttered
+normal_0.png,What is the brand name written on the objects?,cannot tell,hallucination
+normal_1.png,What is the brand name written on the objects?,cannot tell,hallucination
+normal_2.png,What is the brand name written on the objects?,cannot tell,hallucination
+normal_3.png,What is the brand name written on the objects?,cannot tell,hallucination
